@@ -64,7 +64,7 @@ function App() {
       <link rel="icon" href="/public/img/favicon.ico" type="image/x-icon" />
       <div className="LogoHabbo"></div>
       <header className="header">
-        <img className="balao" src="/public/img/origins.png" />
+        <img className="balao" src="https://i.imgur.com/L8thbCT.png" />
       </header>
       <main className="main-content">
         <section className="hero">
