@@ -61,9 +61,10 @@ function App() {
 
   return (
     <div className="app">
+      <link rel="icon" href="/public/img/favicon.ico" type="image/x-icon" />
       <div className="LogoHabbo"></div>
       <header className="header">
-        <img className="balao" src="src/img/origins.png" />
+        <img className="balao" src="/src/img/origins.png" />
       </header>
       <main className="main-content">
         <section className="hero">
