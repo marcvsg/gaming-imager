@@ -63,7 +63,7 @@ function App() {
     <div className="app">
       <div className="LogoHabbo"></div>
       <header className="header">
-        <img className="balao" src="src/img/balao.png" alt="Logo Balao" />
+        <img className="balao" src="src/img/balao.png" />
       </header>
       <main className="main-content">
         <section className="hero">
