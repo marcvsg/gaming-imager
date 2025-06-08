@@ -91,7 +91,7 @@ function App() {
           {userData && (
             <div className="user-card">
               <img
-                src={`https://habbo.com.br/habbo-imaging/avatarimage?figure=${userData.figureString}&size=l&direction=4&head_direction=3&gesture=sml&action=wav`}
+                src={`https://habbo.com.br/habbo-imaging/avatarimage?figure=${userData.figureString}&size=l&direction=3&head_direction=3&gesture=sml&action=wav`}
                 alt={`Avatar de ${userData.name}`}
                 className="user-avatar"
                 onError={(e) => {
